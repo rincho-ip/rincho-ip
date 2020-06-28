@@ -6,8 +6,8 @@
     <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/categories/"
+                hreflang="cn"
+                href="/cn/categories/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -20,8 +20,8 @@
     <loc>/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/"
+                hreflang="cn"
+                href="/cn/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -34,8 +34,8 @@
     <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
-                hreflang="zh"
-                href="/zh/tags/"
+                hreflang="cn"
+                href="/cn/tags/"
                 />
     <xhtml:link
                 rel="alternate"
