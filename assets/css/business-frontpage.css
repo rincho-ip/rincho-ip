@@ -7,3 +7,35 @@ body {
   padding-top: 100px;
 }
 
+address img.logo{
+  height: 80px;
+}
+
+.area-title{
+  margin-top: 3rem;
+}
+
+.row .mb-5 {
+  margin-bottom: 0!important;
+}
+
+.area-row .card {
+  border: 0;
+}
+
+
+.area-row .card-body {
+  padding: 0;
+}
+
+.area-row .card-title {
+  margin-bottom: 0;
+}
+
+.area-row .mb-5 {
+  margin-bottom: 0.75rem!important;
+}
+
+.area-row .sub-title {
+  margin-top: 0.75rem!important;
+}
